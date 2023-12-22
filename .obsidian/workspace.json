@@ -72,9 +72,17 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "9a60449d9de2b473",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,8 +169,8 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "dbfolder:Crear una nueva tabla de base de datos": false,
       "omnisearch:Omnisearch": false
@@ -170,17 +178,20 @@
   },
   "active": "322e7f0cb42e00f9",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "README.md",
+    "Proyectos/Proyectos.md",
+>>>>>>> 8e0fd55ab8ff40936d0b17d15f036a4c2e50e333
     "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md",
     "Spaces/Home",
     "Spaces",
     "ProximoCtx/ProximoCtx.md",
     "Personal/Personal.md",
     "Vault.md",
-    "README.md",
     "Proyectos/Wolf/Wolf.md",
     "Proyectos/Home lab/Home lab.md",
     "Proyectos/Wolf",
-    "Proyectos/Proyectos.md",
     "Proyectos/Home lab",
     "Proyectos",
     "ProximoCtx/Lenguajes/BackEnd/C++/Anexos/Pasted image 20231204195249.png",
