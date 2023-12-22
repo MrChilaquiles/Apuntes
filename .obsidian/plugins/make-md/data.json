@@ -38,7 +38,8 @@
     "/",
     "//Spaces",
     "//Personal",
-    "//Proyectos"
+    "//ProximoCtx",
+    "//ProximoCtx/ProximoCtx/Fundamentos de Programacion"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
