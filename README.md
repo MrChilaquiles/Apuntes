@@ -1,1 +1,1 @@
-Este es mi repositorio de notas asas
+Este es mi repositorio de notas sobre el mundo de la programación
