@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c86e9dac883d7f3b",
+        "id": "f02a8e9063819c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "54c9921df82bcc41",
+            "id": "322e7f0cb42e00f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "d2fea9a0fdac2164",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md"
               }
+            }
+          },
+          {
+            "id": "3e636977b958414a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -143,9 +160,52 @@
       "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Crear una nueva tabla de base de datos": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "54c9921df82bcc41",
-  "lastOpenFiles": []
+  "active": "322e7f0cb42e00f9",
+  "lastOpenFiles": [
+    "ProximoCtx/ProximoCtx.md",
+    "Personal/Personal.md",
+    "Vault.md",
+    "README.md",
+    "Proyectos/Wolf/Wolf.md",
+    "Proyectos/Home lab/Home lab.md",
+    "Proyectos/Wolf",
+    "Proyectos/Proyectos.md",
+    "Proyectos/Home lab",
+    "Proyectos",
+    "ProximoCtx/Lenguajes/BackEnd/C++/Anexos/Pasted image 20231204195249.png",
+    "ProximoCtx/Lenguajes/FrontEnd/JavaScript/JavaScript.md",
+    "ProximoCtx/Lenguajes/FrontEnd/HTML/HTML.md",
+    "ProximoCtx/Lenguajes/FrontEnd/CSS/CSS.md",
+    "ProximoCtx/Lenguajes/Database/MySQL/MySQL.md",
+    "ProximoCtx/Lenguajes/BackEnd/Java/Java.md",
+    "ProximoCtx/Lenguajes/BackEnd/C++/Principal.md",
+    "ProximoCtx/Lenguajes/BackEnd/C++/Anexos",
+    "ProximoCtx/Lenguajes/BackEnd/C++/C++.md",
+    "ProximoCtx/Sistemas/Windows/Windows.md",
+    "ProximoCtx/Sistemas/Linux/Linux.md",
+    "ProximoCtx/Lenguajes/GIT/GIT.md",
+    "ProximoCtx/Lenguajes/FrontEnd/JavaScript",
+    "ProximoCtx/Lenguajes/FrontEnd/HTML",
+    "ProximoCtx/Lenguajes/FrontEnd/FrontEnd.md",
+    "ProximoCtx/Lenguajes/FrontEnd/CSS",
+    "ProximoCtx/Lenguajes/Database/MySQL",
+    "ProximoCtx/Lenguajes/Database/Database.md",
+    "ProximoCtx/Lenguajes/BackEnd/Java",
+    "ProximoCtx/Lenguajes/BackEnd/C++",
+    "ProximoCtx/Lenguajes/BackEnd/BackEnd.md",
+    "ProximoCtx/Fundamentos de Programacion/Anexos/Pasted image 20231205112308.png",
+    "ProximoCtx/Sistemas/Sistemas.md",
+    "ProximoCtx/POO/POO.md",
+    "ProximoCtx/Lenguajes/Lenguajes.md",
+    "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md",
+    "ProximoCtx/Fundamentos de Programacion/Fundamentos de Programacion.md"
+  ]
 }
