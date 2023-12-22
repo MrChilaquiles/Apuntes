@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,6 +170,9 @@
   },
   "active": "322e7f0cb42e00f9",
   "lastOpenFiles": [
+    "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md",
+    "Spaces/Home",
+    "Spaces",
     "ProximoCtx/ProximoCtx.md",
     "Personal/Personal.md",
     "Vault.md",
@@ -198,14 +201,11 @@
     "ProximoCtx/Lenguajes/FrontEnd/CSS",
     "ProximoCtx/Lenguajes/Database/MySQL",
     "ProximoCtx/Lenguajes/Database/Database.md",
-    "ProximoCtx/Lenguajes/BackEnd/Java",
-    "ProximoCtx/Lenguajes/BackEnd/C++",
     "ProximoCtx/Lenguajes/BackEnd/BackEnd.md",
     "ProximoCtx/Fundamentos de Programacion/Anexos/Pasted image 20231205112308.png",
     "ProximoCtx/Sistemas/Sistemas.md",
     "ProximoCtx/POO/POO.md",
     "ProximoCtx/Lenguajes/Lenguajes.md",
-    "ProximoCtx/Fundamentos de Programacion/Tipos de datos.md",
     "ProximoCtx/Fundamentos de Programacion/Fundamentos de Programacion.md"
   ]
 }
