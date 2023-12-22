@@ -1,1 +1,1 @@
-Este es mi repositorio de notas sobre el mundo de la programación
+Este es mi repositorio de notas sobre el mundo de la programación, en este veremos mi progreso dentro de este mundo :)
